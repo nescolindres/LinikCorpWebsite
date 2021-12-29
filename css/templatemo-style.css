@@ -353,6 +353,8 @@ transition: 0.6s;
 
 .tm-gallery-item {
   margin: 0 15px;
+  width: 350px;
+  height: 400px;
 }
 
 .slick-dots {
@@ -485,7 +487,7 @@ figure.effect-honey h2 {
   position: absolute;
   bottom: 0;
   left: 0;
-  padding: 1em 1.5em;
+  padding: 1em 1em;
   width: 100%;
   text-align: left;
   -webkit-transform: translate3d(0, -30px, 0);
